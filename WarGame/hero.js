@@ -106,7 +106,7 @@ while (mana > 0) {
 console.log("Out of mana!");
 
 
-// 7. Objects and arrays
+
 // 1. Create an object weapon with name, damage, type.
 // 2. Create an array inventory and push 3 items.
 // 3. Loop through the array and log each item.
