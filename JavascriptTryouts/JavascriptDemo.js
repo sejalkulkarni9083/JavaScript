@@ -21,3 +21,16 @@ let cast = (spellName) => console.log("Casting " + spellName);
 
 castSpell("fireball");
 cast("sejal");
+
+
+
+function checkEvenOdd(num) {
+  if (num % 2 === 0) {
+    return "Even";
+  } else {
+    return "Odd";
+  }
+}
+
+console.log(checkEvenOdd(10));
+console.log(checkEvenOdd(7));
